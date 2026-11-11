@@ -12,7 +12,7 @@ const tech = [
         },
         {
             id: 3,
-            name: 'PHP',
+            name: 'PHP  ',
             image: 'https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg'
         },
         {
